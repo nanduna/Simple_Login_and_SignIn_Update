@@ -1,0 +1,28 @@
+.SignIn h1{
+    font-size: 40px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.SignIn .inputBox{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.SignIn  .buttons{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #7a9ec5;
+    color: #fff;
+    transition: background-color 0.3s ease;
+    margin: 20px;
+  }
